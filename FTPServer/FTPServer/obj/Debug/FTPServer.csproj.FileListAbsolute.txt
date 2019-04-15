@@ -1,0 +1,10 @@
+C:\Users\自行车\source\repos\FTPServer\FTPServer\bin\Debug\FTPServer.exe.config
+C:\Users\自行车\source\repos\FTPServer\FTPServer\bin\Debug\FTPServer.exe
+C:\Users\自行车\source\repos\FTPServer\FTPServer\bin\Debug\FTPServer.pdb
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.csprojAssemblyReference.cache
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.Form1.resources
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.Properties.Resources.resources
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.csproj.GenerateResource.cache
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.exe
+C:\Users\自行车\source\repos\FTPServer\FTPServer\obj\Debug\FTPServer.pdb
